@@ -1,0 +1,13 @@
+- bot1:
+    interval: 1
+    db:
+        - bot test 1
+        - bot test 2
+        - bot test 3
+
+- bot2:
+    interval: 2
+    db:
+        - wow it worksw:
+            images/test.png
+        - Is it work?

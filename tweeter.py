@@ -9,4 +9,6 @@ api = twitter.Api(consumer_key=cons_key,
         access_token_secret=tok_sec)
 
 # print(api.VerifyCredentials())
-print(api.GetTrendsCurrent())
+
+adnim = api.GetUser(screen_name='0xadnim')
+print(adnim)
