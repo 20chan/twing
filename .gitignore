@@ -1,2 +1,4 @@
-.tweeter.py.swp
 key.config
+*.swp
+images/
+__pycache__/
